@@ -5,7 +5,6 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/shadow180395)
 [![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-godoi-7266a6385/)
 
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Godoi&show_icons=true&theme=transparent)
 
 ## Tecnologias que uso no meu dia
 
